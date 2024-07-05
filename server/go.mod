@@ -18,7 +18,7 @@ require (
 require (
 	github.com/cloudinary/cloudinary-go/v2 v2.5.1
 	github.com/gorilla/securecookie v1.1.1
-	github.com/rs/cors v1.10.0
+	github.com/rs/cors v1.11.0
 	github.com/rs/zerolog v1.31.0
 )
 

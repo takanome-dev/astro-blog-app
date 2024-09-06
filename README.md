@@ -12,10 +12,13 @@
 
 ## :construction: Status :construction:
 
-This blog app is currently _early_ in the development cycle. It's not yet functional but is being actively developed.
+~This blog app is currently _early_ in the development cycle. It's not yet functional but is being actively developed.~
+
+If there are no posts visible, my Supabase instance may be offline. Feel free to create an issue, and I'll bring it back online for testing. Alternatively, you can clone the repo and set it up for your own use. 🙂
+
 
 ```bash
-If you like this project, please leave a star ⭐ It's free and helps a lot!
+If you like this project, please leave a star ⭐ It's free and makes me happy ;)
 ```
 
 <details>
